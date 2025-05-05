@@ -1,0 +1,1 @@
+# Komputerowa_analiza_szeregow_czasowych
