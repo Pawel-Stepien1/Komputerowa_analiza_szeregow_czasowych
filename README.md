@@ -28,3 +28,7 @@ Celem niniejszego raportu jest analiza zmian temperatury w Pakistanie w okresie 
 - Testy statystyczne
 ### 6. Podsumowanie i wnioski
 ### 7. Bibliografia
+
+## Pliki
+Raport.pdf - raport wygenerowany przy pomocy LaTeXa.
+Kod.ipynb - plik jupyter notebook, zawierjący wszystkie kody.
