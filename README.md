@@ -1,4 +1,4 @@
-# Analiza temperatury w Pakistanie od stycznia 1901 r. do grudnia 1950 r.
+# Analiza temperatury w Pakistanie od stycznia 1901r. do grudnia 1950r.
 ##  Komputerowa analiza szeregów czasowych
 
 ## Cel raportu
